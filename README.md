@@ -13,7 +13,7 @@ Atualmente, me dedico a projetos que envolvem:
 <div>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FefaBotareli&layout=compact&theme=dracula" width="400"/>
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api?username=FefaBotareli&show_icons=true&theme=dracula" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=FefaBotareli&show_icons=true&theme=dracula" width="530"/>
 </div>
 
 <div align = "center" style="display: inline_block"><br>
