@@ -10,10 +10,10 @@ Atualmente, me dedico a projetos que envolvem:
 
 &nbsp;
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FefaBotareli&layout=compact&theme=dracula" width="400"/>
+<div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FefaBotareli&layout=compact&theme=dracula"/>
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api?username=FefaBotareli&show_icons=true&theme=dracula" width="530"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=FefaBotareli&show_icons=true&theme=dracula"/>
 </div>
 
 <div align = "center" style="display: inline_block"><br>
