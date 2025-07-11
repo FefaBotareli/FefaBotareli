@@ -21,6 +21,8 @@ Atualmente, me dedico a projetos que envolvem:
   &nbsp;
   <img align="center" alt="CSS-logo" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   &nbsp;
+  <img align="center" alt="TailwindCss-logo" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
+  &nbsp;
   <img align="center" alt="Js-logo" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
   &nbsp;
   <img align="center" alt="Kotlin-logo" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
