@@ -16,6 +16,7 @@ Atualmente, me dedico a projetos que envolvem:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FefaBotareli&layout=compact&theme=dracula"/>
 </div>
 
+## Linguagens e frameworks que tenho experiência
 <div align = "center" style="display: inline_block"><br>
   <img align="center" alt="HTML-logo" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   &nbsp;
@@ -29,6 +30,7 @@ Atualmente, me dedico a projetos que envolvem:
   &nbsp;
   <img align="center" alt="Csharp-logo" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
+
 
   ## Connect with me!
 <div> 
