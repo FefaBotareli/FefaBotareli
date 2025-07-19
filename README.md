@@ -22,17 +22,23 @@ Atualmente, me dedico a projetos que envolvem:
   &nbsp;
   <img align="center" alt="CSS-logo" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   &nbsp;
-  <img align="center" alt="TailwindCss-logo" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
-  &nbsp;
   <img align="center" alt="Js-logo" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+  &nbsp;
+  <img align="center" alt="Js-logo" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg">
   &nbsp;
   <img align="center" alt="Kotlin-logo" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
   &nbsp;
   <img align="center" alt="Csharp-logo" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
 
+## O que estou aprendendo
+<div align = "center" style="display: inline_block"><br>
+<img align="center" alt="HTML-logo" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
+  &nbsp;
+<img align="center" alt="TailwindCss-logo" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
+</div>
 
-  ## Connect with me!
+  ## Entre em contato comigo!
 <div> 
   <a href="https://www.instagram.com/fe.andrd" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:febotareli@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
