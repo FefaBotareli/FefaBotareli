@@ -3,7 +3,7 @@
 Sou estudante de **Sistemas de Informação** na [FIAP](https://www.fiap.com.br/), tenho paixão por transformar ideias em soluções funcionais e intuitivas. Minhas maiores áreas de interesse são **Desenvolvimento Front-End e UX Development**, onde posso unir criatividade, lógica e usabilidade. Além disso, estou sempre em busca de aprimorar meus conhecimentos em **Mobile** e **Backend**.
 
 Atualmente, me dedico a projetos que envolvem:
-- 🖥️ Front-end responsivo com HTML, CSS, JavaScript e frameworks modernos
+- 🖥️ Front-end responsivo com HTML, CSS, JavaScript e frameworks modernos como o React.
 - 📱 Desenvolvimento mobile com foco em usabilidade
 - 🔧 Exploração de ferramentas como Git, APIs e versionamento
 - 📒 Estudo contínuo sobre boas práticas de arquitetura e acessibilidade
