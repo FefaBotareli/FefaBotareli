@@ -36,6 +36,10 @@ Atualmente, me dedico a projetos que envolvem:
 <img align="center" alt="HTML-logo" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
   &nbsp;
 <img align="center" alt="TailwindCss-logo" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
+  &nbsp;
+<img align="center" alt="TailwindCss-logo" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+  &nbsp;
+<img align="center" alt="TailwindCss-logo" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" /> 
 </div>
 
   ## Entre em contato comigo!
