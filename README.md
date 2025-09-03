@@ -1,12 +1,13 @@
 ## Olá! Eu sou Fernanda Botareli 👋
 
-Sou estudante de **Sistemas de Informação** na [FIAP](https://www.fiap.com.br/), tenho paixão por transformar ideias em soluções funcionais e intuitivas. Minhas maiores áreas de interesse são **Desenvolvimento Front-End e UX Development**, onde posso unir criatividade, lógica e usabilidade. Além disso, estou sempre em busca de aprimorar meus conhecimentos em **Mobile** e **Backend**.
+Sou estudante de **Sistemas de Informação** na [FIAP](https://www.fiap.com.br/), tenho paixão por transformar ideias em soluções funcionais e intuitivas. Minhas principais áreas de interesse são Desenvolvimento Full Stack e Front-End, unindo lógica, criatividade e usabilidade para criar experiências digitais de impacto.
 
 Atualmente, me dedico a projetos que envolvem:
-- 🖥️ Front-end responsivo com HTML, CSS, JavaScript e frameworks modernos.
-- 📱 Desenvolvimento mobile com foco em usabilidade
-- 🔧 Exploração de ferramentas como Git, APIs e versionamento
-- 📒 Estudo contínuo sobre boas práticas de arquitetura e acessibilidade
+- 🖥️ Front-End → HTML, CSS, JavaScript, React, Tailwind CSS e design responsivo.
+- ⚙️ Back-End → C#, APIs REST (em aprendizado).
+- 🗄️ Bancos de Dados → SQL (em formação do básico ao avançado).
+- 🎨 UI/UX → Figma, prototipação e acessibilidade.
+- 📈 Metodologias Ágeis → Scrum, Kanban e desenvolvimento iterativo.
 
 &nbsp;
 
