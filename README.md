@@ -1,6 +1,6 @@
 ## Olá! Eu sou Fernanda Botareli 👋
 
-Sou estudante de **Sistemas de Informação** na [FIAP](https://www.fiap.com.br/), tenho paixão por transformar ideias em soluções funcionais e intuitivas. Minhas principais áreas de interesse são Desenvolvimento Full Stack e Front-End, unindo lógica, criatividade e usabilidade para criar experiências digitais de impacto.
+Sou estudante de **Sistemas de Informação** na [FIAP](https://www.fiap.com.br/), tenho paixão por transformar ideias em soluções funcionais e intuitivas. Minhas principais áreas de interesse são  UX Design e Front-End, unindo lógica, criatividade e usabilidade para criar experiências digitais de impacto.
 
 Atualmente, me dedico a projetos que envolvem:
 - 🖥️ Front-End → HTML, CSS, JavaScript, React, Tailwind CSS e design responsivo.
