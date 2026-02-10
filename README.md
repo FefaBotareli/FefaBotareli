@@ -1,52 +1,55 @@
-## Olá! Eu sou Fernanda Botareli 👋
+# Olá! Eu sou a Fernanda Botareli 👋  
 
-Sou estudante de **Sistemas de Informação** na [FIAP](https://www.fiap.com.br/), tenho paixão por transformar ideias em soluções funcionais e intuitivas. Minhas principais áreas de interesse são  UX Design e Front-End, unindo lógica, criatividade e usabilidade para criar experiências digitais de impacto.
+Sou estudante de Sistemas de Informação na FIAP, em **transição de carreira para a área de Dados**, com foco em **Análise de Dados**.  
+Tenho interesse em transformar dados em **insights claros para apoiar decisões de negócio**, especialmente em contextos educacionais, editoriais e corporativos.
 
-Atualmente, me dedico a projetos que envolvem:
-- 🖥️ Front-End → HTML, CSS, JavaScript, React, Tailwind CSS e design responsivo.
-- ⚙️ Back-End → C#, APIs REST (em aprendizado).
-- 🗄️ Bancos de Dados → SQL (em formação do básico ao avançado).
-- 🎨 UI/UX → Figma, prototipação e acessibilidade.
-- 📈 Metodologias Ágeis → Scrum, Kanban e desenvolvimento iterativo.
+Atualmente, estou construindo minha base técnica e prática em **análise, visualização e interpretação de dados**, unindo pensamento analítico, lógica e comunicação.
 
-&nbsp;
+---
 
-## Linguagens e frameworks que tenho experiência
-<div align = "center" style="display: inline_block"><br>
-  <img align="center" alt="HTML-logo" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  &nbsp;
-  <img align="center" alt="CSS-logo" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  &nbsp;
-  <img align="center" alt="Js-logo" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-  &nbsp;
-  <img align="center" alt="Js-logo" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg">
-  &nbsp;
-  <img align="center" alt="Kotlin-logo" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
-  &nbsp;
-  <img align="center" alt="Csharp-logo" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-</div>
+## 📊 O que eu faço em Dados
 
-## O que estou aprendendo
-<div align = "center" style="display: inline_block"><br>
-<img align="center" alt="HTML-logo" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
-  &nbsp;
-<img align="center" alt="TailwindCss-logo" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
-  &nbsp;
-<img align="center" alt="TailwindCss-logo" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
-  &nbsp;
-<img align="center" alt="TailwindCss-logo" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" /> 
-</div>
+Atualmente desenvolvo projetos que envolvem:
 
-  ## Entre em contato comigo!
-<div> 
-  <a href = "mailto:febotareli@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/fernanda-botareli-460a51236/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+- 📈 **Análise de Dados** — exploração, limpeza e interpretação de dados.
+- 🗄️ **SQL** — consultas para responder perguntas de negócio.
+- 🐍 **Python** — análise de dados com pandas e visualização.
+- 📊 **Visualização de Dados** — dashboards e gráficos claros e objetivos.
+- 🧠 **Storytelling com Dados** — comunicação de insights para públicos não técnicos.
 
-  
-#
+---
 
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FefaBotareli/FefaBotareli/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FefaBotareli/FefaBotareli/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/FefaBotareli/FefaBotareli/output/github-contribution-grid-snake.svg">
-</picture>
+## 🛠️ Ferramentas e tecnologias
+
+### Dados & Análise
+- Excel (análise, organização e relatórios)
+- SQL (MySQL)
+- Python (pandas, matplotlib/seaborn)
+- Power BI
+
+### Base técnica complementar
+- Git & GitHub
+- Lógica de programação
+- Noções de desenvolvimento web (HTML, CSS, JavaScript)
+
+---
+
+## 📁 Projetos em destaque
+🔹 **Análise de Vendas de uma Editora**  
+🔹 **Análise de Catálogo Editorial por Gênero**  
+🔹 **Dashboard de Indicadores de Leitura e Receita**
+
+👉 Veja os repositórios fixados abaixo para entender meu processo analítico, decisões e insights.
+
+---
+
+## 📚 Formação e estudos
+- 🎓 Sistemas de Informação — FIAP
+- 📘 Trilha de Análise de Dados — Alura
+- 📘 Data Fundamentals & Python for Data Science — IBM SkillsBuild
+
+---
+
+## 📬 Vamos conversar?
+📧 Email: fernandabotareli04@gmail.com  
+💼 LinkedIn: https://www.linkedin.com/in/fernanda-botareli-460a51236
