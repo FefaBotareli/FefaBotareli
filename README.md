@@ -38,3 +38,9 @@ Atualmente estou desenvolvendo projetos que envolvem:
 ## 📬 Vamos conversar?
 📧 Email: fernandabotareli04@gmail.com  
 💼 LinkedIn: https://www.linkedin.com/in/fernanda-botareli-460a51236
+
+## 📊 Estatísticas
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FefaBotareli&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FefaBotareli&layout=compact&theme=tokyonight)
