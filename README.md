@@ -39,4 +39,4 @@ Atualmente estou desenvolvendo projetos que envolvem:
 📧 Email: fernandabotareli04@gmail.com  
 💼 LinkedIn: https://www.linkedin.com/in/fernanda-botareli-460a51236
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FefaBotareli)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=FefaBotareli&theme=vision-friendly-dark)](https://git.io/streak-stats)
