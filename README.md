@@ -41,6 +41,4 @@ Atualmente estou desenvolvendo projetos que envolvem:
 
 ### 📊 Estatísticas do GitHub
 
-![Minhas Linguagens](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=FefaBotareli&layout=compact&theme=vision-friendly-dark)
-
-![Meus Status](https://github-readme-stats-eight-theta.vercel.app/api?username=FefaBotareli&show_icons=true&theme=vision-friendly-dark)
+![Minhas Linguagens](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=FefaBotareli&layout=compact&theme=dracula)
